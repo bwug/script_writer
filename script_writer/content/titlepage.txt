@@ -1,6 +1,0 @@
-<div class="centered">
-<h1 style="text-align:center">report_title</h1>
-<h2 style="text-align:center">report_subtitle</h2>
-<h6 style="text-align:center">Written by: report_author</h3>
-</div>
-<div style="page-break-after: always;"></div>
