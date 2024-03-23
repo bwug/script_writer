@@ -47,7 +47,7 @@ Latex (JSON unsupported):
 This project was designed with a barebones approach in mind, I personally use a few extensions on VSCode - markdown PDF specifically - to add some richtext features to my documents.
 
 ```JSON
-report = {
+{
     "author": "Name",
     "title": "Report title",
     "sub": "subtitle",
