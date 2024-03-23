@@ -1,0 +1,42 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });</script>
+
+<style>
+    .centered{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .heading1 {
+        font-size: 20px;
+        font-weight: bold;
+        font-style: italic;
+    }
+
+    .caption {
+        text-align: center;
+        text-style: italic;
+        font-size: 11px;
+    }
+
+    .figure {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 300px;
+        width: 350px;
+    }
+
+    p {
+        font-size: 12pt;
+        font-family: Arial;
+    }
+</style>
+
+<div class="centered">
+<h1 style="text-align:center">report_title</h1>
+<h2 style="text-align:center">report_subtitle</h2>
+<h6 style="text-align:center">Written by: report_author</h3>
+</div>
