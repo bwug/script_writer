@@ -1,6 +1,4 @@
 # Script writer
-<sup>Written by Harry Hescott</sup>
-
 ### Why?
 
 I created this software to assist in developing lab scripts for my course, it is very simple and creates folders similar to a venv command
